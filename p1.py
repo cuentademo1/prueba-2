@@ -1,3 +1,3 @@
-num=10
-if num == 10 
-  print("10")
+num=20
+if num == 20 
+  print("20")
